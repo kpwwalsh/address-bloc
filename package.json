@@ -9,7 +9,7 @@
   "author": "Kyle Walsh",
   "license": "ISC",
   "devDependencies": {
-    "jasmine": "^3.4.0"
+    "jasmine": "^3.1.0"
   },
   "dependencies": {
     "inquirer": "^6.5.1"
